@@ -83,3 +83,18 @@ FROM nvda_stock_price
 GROUP BY FORMAT(price_date, 'yyyy-MM')
 ORDER BY month;
 ```
+# Concluzii
+După analiza datelor istorice privind prețurile, dividendele și split-urile acțiunilor NVIDIA, am obținut următoarele concluzii importante:
+
+### Tendință generală de creștere:
+Prețul acțiunilor NVIDIA a prezentat o creștere constantă în timp, în special în perioadele de inovație tehnologică sau expansiune a pieței. Aceasta sugerează o performanță puternică pe termen lung și încrederea investitorilor în companie.
+
+### Impactul split-urilor de acțiuni:
+Deși split-urile de acțiuni nu afectează valoarea fundamentală a companiei, ele au stimulat volumele de tranzacționare și au sporit accesibilitatea acțiunilor pentru investitorii retail. După fiecare split, prețul a arătat o tendință pozitivă de revenire și creștere.
+
+### Dividendele:
+Dividendele distribuite au fost consistente, ceea ce arată că NVIDIA menține o strategie de recompensare a investitorilor, în ciuda faptului că este o companie axată pe creștere. Acest lucru indică o poziție financiară solidă.
+
+### Sezonalitatea:
+Am identificat o anumită sezonalitate în prețurile acțiunilor și dividende, cu creșteri semnificative în perioadele de lansare de produse noi sau anunțuri financiare importante.
+
